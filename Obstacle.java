@@ -1,9 +1,5 @@
 package com.myapps.toualbiamine.rushhour;
 
-/**
- * Created by toualbiamine on 12/17/17.
- */
-
 public abstract class Obstacle {
 
     int speed;
